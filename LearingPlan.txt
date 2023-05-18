@@ -19,7 +19,7 @@
 - Animation-P5.js[100%]
 - ChatGPTWindows[10%]
 - ActivityMonitoringExtension[15%]
-- TechnicalOverviewoftheDatabase[75%]
+- TechnicalOverviewoftheDatabase[80%]
 - Wifi-Adapter-AC1300-Archer-4U-Plus-kali-linux[100%]
 - MayaRaceProject[100%]
 - MayaRotationWheelByFrame[100%]
